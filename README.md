@@ -4,13 +4,12 @@ Software engineer focused on building reliable systems across backend, full-stac
 I care deeply about strong computer science fundamentals and writing clean, maintainable code. 
 
 ### Current Focus
-
-- Data Structures & Algorithms 
-- Backend & Full-Stack development
-- Deep dive into latest AI research 
-- LLM-based tools and applied machine learning
-- Strengthening CS fundamentals (OS, DBMS, Networking, OOP)
-- Gradually exploring system design, cloud, and low-level concepts
+- Strengthening Data Structures & Algorithms for problem-solving and interviews
+- Backend & Full-Stack development, building scalable and maintainable systems
+- Exploring and implementing recent AI/ML research, including LLMs and neural networks
+- Developing practical LLM-based tools and other applied machine learning projects
+- Reinforcing core CS fundamentals: OS, DBMS, Networking, OOP
+- Gradually exploring system design, cloud computing, and low-level concepts
 
 ### What I’m Working On
 
