@@ -8,7 +8,7 @@ I care deeply about strong computer science fundamentals and writing clean, main
 - Backend & Full-Stack development, building scalable and maintainable systems
 - Exploring and implementing recent AI/ML research, including LLMs and neural networks
 - Developing practical LLM-based tools and other applied machine learning projects
-- Reinforcing core CS fundamentals: OS, DBMS, Networking, OOP
+- Strengthening CS fundamentals across OS, DBMS, Networking, and OOP
 - Gradually exploring system design, cloud computing, and low-level concepts
 
 ### What I’m Working On
