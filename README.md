@@ -29,6 +29,6 @@ I care deeply about strong computer science fundamentals and writing clean, main
 
 ### How To Reach Out To Me
 
-<a href="https://www.linkedin.com/in/adeeb-khan-74b380191" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:adeebkhankhan25@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://adeebkhan25.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website badge"></a>
+<a href="https://www.linkedin.com/in/adeeb-khan-74b380191"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:adeebkhankhan25@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://adeebkhan25.vercel.app"><img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website badge"></a>
