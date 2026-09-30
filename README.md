@@ -1,34 +1,38 @@
-## Hi, I’m Adeeb Khan 👋
+## Hi, I'm Adeeb Khan 👋 
 
-Software engineer focused on building reliable systems across backend, full-stack, and applied AI/ML.  
-I care deeply about strong computer science fundamentals and writing clean, maintainable code. 
+I'm a **Senior Software Engineer at Marvell Technology**, working across software, systems, and firmware. 
 
-### Current Focus
-- Strengthening Data Structures & Algorithms for problem-solving and interviews
-- Backend & Full-Stack development, building scalable and maintainable systems
-- Exploring and implementing recent AI/ML research, including LLMs and neural networks
-- Developing practical LLM-based tools and other applied machine learning projects
-- Strengthening CS fundamentals across OS, DBMS, Networking, and OOP
-- Gradually exploring system design, cloud computing, and low-level concepts
+I enjoy building things from the ground up—from **C++ systems and networking** to **backend applications and AI/ML tools**. 
+I care about strong computer science fundamentals, understanding how systems work underneath the abstractions, and writing clean, maintainable code. 
 
-### What I’m Working On
+### What I Work With 
+- **Systems & Software:** C++, Python, Linux, networking, concurrency, TCP/IP
+- **Backend:** Node.js, Express, REST APIs, WebSockets, databases
+- **AI / ML:** PyTorch, TensorFlow, CNNs, LLM applications, AWS Bedrock
+- **Protocols:** NVMe, MCTP, PLDM, I²C, I3C, PCIe VDM
+- **Tools & Infrastructure:** Git, Docker, Jenkins, Gerrit
 
-- LLM-powered tools and developer utilities
-- A Chrome extension focused on real-world productivity and automation
-- Backend systems with proper API design and data modeling
-- Projects involving databases, scalability, and system design concepts
+### What I'm Building
+- **Systems projects in C++** — networking, event-driven architectures, caching, and distributed systems
+- **Backend applications** — APIs, real-time communication, databases, and system design
+- **AI-powered developer tools** — LLM applications and automation
+- **Machine learning projects** — deep learning, computer vision, and applied research
 
-### Tech Stack
+### Current Interests
+- Systems programming and low-level software
+- Backend and distributed systems
+- System design and scalable architectures 
+- AI/ML and practical LLM applications 
+- Open-source software and large-scale codebases 
+- Strong CS fundamentals: DSA, OS, DBMS, networking, and OOP
 
-- **Languages:** Python, C++, JavaScript  
-- **Backend:** REST APIs, Express (Node.js)
-- **Frontend:** React, HTML, CSS  
-- **ML / AI:** LLMs, CNNs, PyTorch, Tensorflow
-- **CS Fundamentals:** DSA, OOP, DBMS, OS, Computer Networks  
-- **Tools:** Git, Linux
+### Selected Work 
+- **C++ In-Memory Cache** — event-driven cache using non-blocking TCP sockets and `epoll`
+- **Real-Time Messenger** — full-stack real-time messaging using WebSockets 
+- **AI Resume Modifier** — LLM-powered Python CLI for analyzing job descriptions and LaTeX resumes 
+- **AI Music Generator** — LSTM-based music generation using TensorFlow
 
 ### How To Reach Out To Me
-
 <a href="https://www.linkedin.com/in/adeeb-khan-74b380191"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:adeebkhankhan25@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://adeebkhan25.vercel.app"><img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website badge"></a>
